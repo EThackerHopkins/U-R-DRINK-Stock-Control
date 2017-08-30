@@ -1,0 +1,5 @@
+Skinny Latte,2.6,10
+Americano,1.5,21
+Tea,1.6,14
+Cappucino,2.5,18
+Green tea,1.5,28

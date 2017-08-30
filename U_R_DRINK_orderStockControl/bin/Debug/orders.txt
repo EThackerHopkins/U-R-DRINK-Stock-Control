@@ -1,0 +1,4 @@
+ORDER:,1,4.6,Stuart,34 Park St,Tamworth,B74 5RT
+0,Americano,1.5,2,3
+1,Tea,1.6,1,1.6
+ORDER:,2,0,Jess,67 Beeches Rd,Swansea,MG2 4WE
